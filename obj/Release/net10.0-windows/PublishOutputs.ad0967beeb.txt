@@ -1,0 +1,12 @@
+C:\Users\Nouman\OneDrive\Desktop\campus.db
+C:\Users\Nouman\OneDrive\Desktop\CampusManagementSystem2.exe
+C:\Users\Nouman\OneDrive\Desktop\CampusManagementSystem2.dll
+C:\Users\Nouman\OneDrive\Desktop\CampusManagementSystem2.deps.json
+C:\Users\Nouman\OneDrive\Desktop\CampusManagementSystem2.runtimeconfig.json
+C:\Users\Nouman\OneDrive\Desktop\CampusManagementSystem2.pdb
+C:\Users\Nouman\OneDrive\Desktop\BCrypt-Net-Next.dll
+C:\Users\Nouman\OneDrive\Desktop\System.Data.SQLite.dll
+C:\Users\Nouman\OneDrive\Desktop\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Nouman\OneDrive\Desktop\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Nouman\OneDrive\Desktop\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Nouman\OneDrive\Desktop\runtimes\win-x86\native\SQLite.Interop.dll
